@@ -14,28 +14,28 @@ function App() {
      <Profile/>
      <div className='container'>
      <Card
-        image="./../public/javascrip.png"
+        image="./../javascrip.png"
         title="Javascript"
         text='Lógica de programação, estrutura de controle e loops, arrays, programação funcional, POO, DOM'
         />
         <Card
-        image='./../public/css.png'
+        image='./../css.png'
         title="CSS3"
         text='Fundamentos, Flexbox, Grid, Bootstrap, Bulma e Responsividade com media query.'
         />
         
         <Card
-        image='./../public/html.png'
+        image='./../html.png'
         title="HTML5"
         text='Elementos e tags, listas, tabelas, formulário, atributos, links e navegação e integração com javascript'
         />
         <Card
-        image='./../public/react2.png'
+        image='./../react2.png'
         title='React JS'
         text='Componentes (Listas, forms, tables e etc..), Props e State, Eventos, React Router, useState e useEffect, Estilização'
         />
         <Card
-        image='./../public/node (2).png'
+        image='./../node (2).png'
         title='Node JS'
         text="Módulos node, NPM, Express, Mongoose, API RESTful, Middleware, autenticação, Programação Assícrona."
         />

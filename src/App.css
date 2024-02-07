@@ -27,3 +27,24 @@ body{
   }
 }
   
+
+@media (max-width: 375px){
+  .container{
+    margin: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+  }
+}
+
+@media (max-width: 425px){
+  .container{
+    margin: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+  }
+}
+  

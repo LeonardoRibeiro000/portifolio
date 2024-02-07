@@ -87,6 +87,47 @@
     
 }
 
+@media (max-width: 375px){
+    .container-profile{
+        padding: 1rem;
+        margin-top: 1rem;
+        gap: 2rem;
+        display: flex;
+        justify-content: space-around;
+        border: 1px solid #000;
+        box-shadow: 10px #fff;
+        
+    }
+.container-text{
+        color: #fff;
+        margin: 0 auto;
+        font-family: 'Courier New', Courier, monospace;
+    
+        
+    }
+    .container-text p{
+        line-height: 1.5;
+        font-size: 11px;
+        
+    }
+    .links {
+        display: flex;
+        gap: 1rem;
+        text-align: center;
+        
+        align-items: center;
+        
+        
+    }
+
+    .links a{
+        font-family: 'Courier New', Courier, monospace;
+        cursor: pointer;
+        margin: 1rem auto;
+        transition: transform 0.3s ease-out;
+    }
+    
+}
 @media (max-width: 425px){
     .container-profile{
         padding: 1rem;
