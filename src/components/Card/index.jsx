@@ -8,7 +8,10 @@ const Card = (props) => {
                 <img src={props.image}></img>
                 </div>
                 <h3>{props.title}</h3>
+                <section className='content'>
                 <p>{props.text}</p>
+                </section>
+                
             </div>
 
         

@@ -38,6 +38,8 @@
     font-family: 'Courier New', Courier, monospace;
     cursor: pointer;
     transition: transform 0.3s ease-out;
+    text-decoration: none;
+    color: #fff;
 }
 
 .links a:hover{
@@ -83,6 +85,8 @@
         cursor: pointer;
         margin: 1rem auto;
         transition: transform 0.3s ease-out;
+        text-decoration: none;
+        color: #fff;
     }
     
 }
